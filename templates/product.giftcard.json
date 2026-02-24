@@ -1,0 +1,152 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor_Y7qzzt": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "liquid_3kQnrE": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"feature_with_icon_hBq6KP\" data-block-type=\"feature-with-icon\"><div class=\"feature-badge border\" style=\"--text-color: 28 28 28; color: rgb(var(--text-color));--border-color: 80 80 80;\"><img src=\"//luciente-online.com/cdn/shop/files/paypal-black.svg?v=1740778871&amp;width=46\" alt=\"\" srcset=\"//luciente-online.com/cdn/shop/files/paypal-black.svg?v=1740778871&amp;width=32 32w, //luciente-online.com/cdn/shop/files/paypal-black.svg?v=1740778871&amp;width=46 46w\" width=\"46\" height=\"24\" sizes=\"32px\" class=\"constrained-image\" style=\"--image-max-width: 32px\"><p>Secure Payments with PayPal, Credit Card &amp; more</p></div></div>"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_style": "block",
+            "swatch_selector_style": "block_swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false,
+            "show_below_gallery": false
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "liquid_7J6nQ4": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display: flex; gap: 12px; margin-top: -5px;\">\n  <div style=\"flex: 1; border: 1px solid #e5e5e5; padding: 12px 16px; display: flex; align-items: center; justify-content: center; gap: 8px;\"><svg aria-hidden=\"true\" focusable=\"false\" fill=\"none\" stroke-width=\"1\" width=\"15\" class=\"icon icon icon-picto-box\" viewBox=\"0 0 24 24\">\n      <path clip-rule=\"evenodd\" d=\"M.75 5.25 12 9.75l11.25-4.5L12 .75.75 5.25Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n      <path clip-rule=\"evenodd\" d=\"M.75 5.25v13.5L12 23.25V9.75L.75 5.25v0Zm22.5 0v13.5L12 23.25V9.75l11.25-4.5v0Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n      <path d=\"m18.187 7.275-11.25-4.5M20.625 16.5l-1.875.75\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n    </svg><span style=\"font-size: 8px;\">\n      FREE INSURED SHIPPING\n    </span>\n  </div>\n  <div style=\"flex: 1; border: 1px solid #e5e5e5; padding: 12px 16px; display: flex; align-items: center; justify-content: center; gap: 8px;\"><svg aria-hidden=\"true\" focusable=\"false\" fill=\"none\" stroke-width=\"1\" width=\"15\" class=\"icon icon icon-picto-return\" viewBox=\"0 0 24 24\">\n      <path d=\"m1.25 15.08 2.207-3.384 3.385 2.206\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n      <path d=\"M13.13 2.5a9.525 9.525 0 1 1 0 19.049 9.68 9.68 0 0 1-9.673-9.853\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n    </svg><span style=\"font-size: 8px;\">\n      14-DAY RETURNS POLICY\n    </span>\n  </div>\n</div>"
+          }
+        },
+        "liquid_aPfJYd": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"offers_TNDBKK\" data-block-type=\"offers\"><div class=\"product-offers border\" style=\"--background: 239 239 239 ; background-color: rgb(var(--background));--text-color: 94 0 0; color: rgb(var(--text-color));--border-color: 172 6 4;\">\n                <scroll-carousel id=\"product-offers-offers_TNDBKK\" class=\"product-offers__list product-offers__list--stack divide-y\">\n                  <div class=\"product-offers__item text-center snap-center\">\n                    <div class=\"v-stack gap-2.5\"><p class=\"h6\">50% OFF + TIERED DISCOUNTS</p><div class=\"prose\"><p>Extra 10% off&nbsp;2 | 20% off&nbsp;3 | 30% off&nbsp;4+items</p></div></div>\n                  </div>\n                </scroll-carousel></div></div>"
+          }
+        },
+        "complementary_products": {
+          "type": "complementary_products",
+          "settings": {
+            "title": "Others also bought",
+            "products_count": 2,
+            "show_below_gallery": true,
+            "stack_products": false,
+            "show_quick_buy": true
+          }
+        }
+      },
+      "block_order": [
+        "vendor_Y7qzzt",
+        "title",
+        "liquid_3kQnrE",
+        "price",
+        "payment_terms",
+        "separator",
+        "variant_picker",
+        "quantity_selector",
+        "description",
+        "buy_buttons",
+        "liquid_7J6nQ4",
+        "liquid_aPfJYd",
+        "complementary_products"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "container_size": "lg",
+        "product_info_size": 35,
+        "show_sticky_add_to_cart": true,
+        "center_basic_info": false,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "desktop_media_grid_gap": 30,
+        "mobile_controls": "dots",
+        "enable_media_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "recommendations_count": 10,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "",
+        "title": "Related products",
+        "content": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "related-products"
+  ]
+}

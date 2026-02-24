@@ -1,0 +1,185 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "rich_text_Ck9baR": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_rFdYHN": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_MqW4CV": {
+          "type": "heading",
+          "settings": {
+            "text": "Care instructions",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_PWVCmK": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>WASHING:</p><ul><li>Hand wash or use a gentle machine wash cycle with cold water and mild wool detergent.</li><li>Avoid harsh soaps and fabric softeners, as they can damage the fibers.</li><li>Use a mesh laundry bag if machine washing to reduce friction and stretching.</li></ul><p></p><p>DRYING: </p><ul><li>Lay flat to dry on a clean towel to maintain shape.</li><li>Keep away from direct heat and sunlight to prevent shrinkage or fading.</li><li>Do not tumble dry, as high heat can damage wool fibers.</li></ul><p>STORAGE:</p><ul><li>Store in a cool, dry place to prevent mildew or odor buildup. </li><li>Use cedar blocks or lavender sachets to repel moths naturally.</li><li>Fold instead of hanging to maintain the garment’s shape and prevent stretching.</li></ul>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_rFdYHN",
+        "heading_MqW4CV",
+        "richtext_PWVCmK"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "content_width": "lg",
+        "text_position": "start",
+        "remove_vertical_spacing": false
+      }
+    },
+    "recently_viewed_products_PkNCKi": {
+      "type": "recently-viewed-products",
+      "name": "t:sections.recently_viewed_products.presets.recently_viewed_products.name",
+      "settings": {
+        "separate_section_with_border": true,
+        "color_scheme": "",
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_count": 9,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "",
+        "title": "Recently viewed products",
+        "content": ""
+      }
+    },
+    "ss_instafeed_2_eAgC4d": {
+      "type": "ss-instafeed-2",
+      "blocks": {
+        "slide_aMwAyD": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/87b23458bb0245beec87ad8d0cbf70be_1.webp",
+            "url": ""
+          }
+        },
+        "slide_eaneGm": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/66d209e7f9da77a4a0ff0f8f77d84680_1.webp",
+            "url": ""
+          }
+        },
+        "slide_PnL9L6": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/ICONS_FOR_WEBSITE_34_dcdfc569-0632-408a-9375-dd3a5cccbc2f_1.webp",
+            "url": ""
+          }
+        },
+        "slide_6ckanJ": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/fca1aff2b2b9b820939c344d22ee8fa4_1.webp",
+            "url": ""
+          }
+        },
+        "slide_Cp8UqW": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/b9d5ef2dd4d7988d37d34d2396111653_1.jpg",
+            "url": ""
+          }
+        },
+        "slide_qawEec": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/e188364f73d6e0331bf66144b6e108ae_1.webp",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_aMwAyD",
+        "slide_eaneGm",
+        "slide_PnL9L6",
+        "slide_6ckanJ",
+        "slide_Cp8UqW",
+        "slide_qawEec"
+      ],
+      "name": "SS - Instafeed #2",
+      "settings": {
+        "top": "",
+        "top_custom": false,
+        "top_font": "josefin_sans_n4",
+        "top_size": 13,
+        "top_height": 130,
+        "top_align": "center",
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 40,
+        "heading_height": 130,
+        "heading_align": "center",
+        "heading_mt": 12,
+        "subheading": "<h3><strong>TAG US TO GET FEATURED</strong></h3>",
+        "subheading_custom": true,
+        "subheading_font": "montserrat_n4",
+        "subheading_size": 12,
+        "subheading_height": 130,
+        "subheading_align": "center",
+        "subheading_mt": 12,
+        "slider_mt": 60,
+        "slider_row": "3",
+        "slider_row_mobile": "2",
+        "slider_gap": 8,
+        "slider_gap_mobile": 4,
+        "autoplay": true,
+        "autoplay_speed": 10,
+        "nav_size": 40,
+        "nav_size_mobile": 30,
+        "hide_nav": true,
+        "hide_nav_mobile": false,
+        "image_radius": 0,
+        "top_color": "#1c1c1c",
+        "heading_color": "#746661",
+        "subheading_color": "#1c1c1c",
+        "nav_btn_bg": "rgba(0,0,0,0)",
+        "nav_btn_hover_bg": "rgba(0,0,0,0)",
+        "nav_border": "rgba(0,0,0,0)",
+        "nav_border_hover": "rgba(0,0,0,0)",
+        "nav_icon": "#ffffff",
+        "nav_hover_icon": "#ffffff",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    }
+  },
+  "order": [
+    "rich_text_Ck9baR",
+    "recently_viewed_products_PkNCKi",
+    "ss_instafeed_2_eAgC4d"
+  ]
+}

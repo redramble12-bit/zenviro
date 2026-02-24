@@ -1,0 +1,160 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "sp_custom_html_LjNGdL": {
+      "type": "sp-custom-html",
+      "custom_css": [
+        "{background-color: #ffffff !important;}",
+        " {padding-left: 100px;}"
+      ],
+      "name": "🚀SP - Custom HTML",
+      "settings": {
+        "title": "",
+        "custom_html": "<br><br>\n<h1>Shipping policy</h1>\n<br>\n<div class=\"rte prose\">\n        <p><strong>Shipping Process</strong><br></p>\n<p>We require between 1-2 working days on average to fulfill your order and transport it to our carrier's sort facility. Some items may take longer especially around major holidays (up to 5 days), or if your order includes popular items experiencing stock availability issues. </p>\n<p>Once your order has begun processing through our shipping department we are unable to make any changes (including address changes).<span> </span><span>We will only ship to the address provided at check-out. </span></p>\n<p>We only ship during business days and do not ship on Saturdays, Sundays or holidays. <span>Once your order has shipped, you will receive a Shipping Confirmation email.</span></p>\n<p>For orders with multiple items, products may be shipped separately and received on different dates due to the difference in manufacturing partners’ locations. </p>\n<p><strong>Tracking</strong></p>\n<p><span>All orders are processed with tracking numbers. You will receive an email with the tracking number when you order is dispatched to the carrier's sort facility. </span></p>\n<p><span>For some shipping companies, it can take several days for the tracking information to update in the system. If your order was placed more than 5 business days ago and there is still no information on your tracking number, please contact us.</span></p>\n<p><strong>Deliveries</strong></p>\n<p>Shipping time varies by country or region.<span> </span><em>Specific delivery dates are not provided nor guaranteed. </em>These are our estimates for your reference:</p>\n<p><br></p>\n<div class=\"table-responsive\">\n<div class=\"table-wrap\">\n<div class=\"table-wrap\">\n<div class=\"table-wrap\">\n<table width=\"737\" style=\"height:210px;\">\n<thead>\n<tr style=\"height:35px;\">\n<td style=\"height:35px;\">\n<p><strong>Location</strong></p>\n</td>\n<td style=\"height:35px;\">\n<p><strong>*Estimated Shipping Time</strong></p>\n</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>\n<p>United Kingdom</p>\n</td>\n<td>\n<p>5-9 Business days</p>\n</td>\n</tr>\n<tr style=\"height:35px;\">\n<td style=\"height:35px;\">\n<p>United States, Canada</p>\n</td>\n<td style=\"height:35px;\">\n<p>6-10 Business days</p>\n</td>\n</tr>\n<tr style=\"height:35px;\">\n<td style=\"height:35px;\">\n<p>Europe</p>\n</td>\n<td style=\"height:35px;\">\n<p>6-10 Business days</p>\n</td>\n</tr>\n<tr style=\"height:35px;\">\n<td style=\"height:35px;\">\n<p>Australia, New Zealand</p>\n</td>\n<td style=\"height:35px;\">\n<p>6-10 Business days</p>\n</td>\n</tr>\n<tr style=\"height:35px;\">\n<td style=\"height:35px;\">\n<p>UAE, Kuwait, Qatar</p>\n</td>\n<td style=\"height:35px;\">\n<p>8-12 Business days</p>\n</td>\n</tr>\n<tr style=\"height:35px;\">\n<td style=\"height:35px;\">\n<p>Japan<br></p>\n</td>\n<td style=\"height:35px;\">\n<p>7-11 Business days</p>\n</td>\n</tr>\n</tbody>\n</table>\n<br>\n</div>\n</div>\n</div>\n<p> <em>*Note: The days listed above are only estimates in business/working days.</em></p>\n<p>While we will do all that we can to make sure you order is delivered on time,<span> Zomario </span>can not be held responsible for conditions beyond our control such as required postal or customs clearance procedures, holidays, severe weather, labor disputes, protests, etc. and these interruptions can cause delays beyond our original delivery estimates.<span> </span></p>\n<p><strong>Do I need to pay for VAT or Custom Duties?</strong></p>\n<p>All our deliveries are handled by DDP which means that Zomario covers all costs for customs clearance fees, import duties, and VAT. If you by any chance receive an import fee, we kindly ask you to contact us and we will take care of it.</p>\n<p>If you have any further questions regarding VAT and customer duties, please contact your local customs office for more information.</p>\n</div>\n<p><strong>Lost/Stolen/Damaged Packages:</strong></p>\n<p><span>Zomario </span>is not responsible for lost, stolen or damaged packages. <span>If your tracking information states that your package was delivered to your address and you have not received it, please report it and/or file a claim with your respective shipping carrier.</span></p>\n<p><em>Note: We utilize the timestamp information from the tracking link and delivery confirmation from the carrier when reviewing damage or return requests and we may not be able to honor your claim if it is not reported.</em></p>\n<p><strong>Wrong Address Disclaimer:</strong></p>\n<p>It is the responsibility of the buyer to make sure that the shipping address entered is correct before submitting an order. We start working on your order immediately, so we are unable to make any changes to an order after it has been placed. If the order has already been processed through our shipping department, we cannot retrieve it for an address change. </p>\n<p>It is the customers responsibility to nominate a safe and secure shipping address. Zomario is not responsible for for missing or stolen packages once an order has been delivered to the correct shipping address. Zomario is not liable for any damage to parcels once successfully delivered to the correct shipping address.</p>\n<p><strong>Feedback</strong></p>\n<p>We would love to hear your feedback, questions, or any concerns. Please feel free to email us at <strong>contact@zomario.com</strong> to let us know how we are doing. We take your feedback very seriously and are always striving to improve.</p>\n    </div>"
+      }
+    },
+    "recently_viewed_products_PkNCKi": {
+      "type": "recently-viewed-products",
+      "name": "t:sections.recently_viewed_products.presets.recently_viewed_products.name",
+      "settings": {
+        "separate_section_with_border": true,
+        "color_scheme": "scheme-2",
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_count": 9,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "",
+        "title": "Recently viewed products",
+        "content": ""
+      }
+    },
+    "ss_instafeed_2_eAgC4d": {
+      "type": "ss-instafeed-2",
+      "blocks": {
+        "slide_aMwAyD": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/87b23458bb0245beec87ad8d0cbf70be_1.webp",
+            "url": ""
+          }
+        },
+        "slide_eaneGm": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/66d209e7f9da77a4a0ff0f8f77d84680_1.webp",
+            "url": ""
+          }
+        },
+        "slide_PnL9L6": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/ICONS_FOR_WEBSITE_34_dcdfc569-0632-408a-9375-dd3a5cccbc2f_1.webp",
+            "url": ""
+          }
+        },
+        "slide_6ckanJ": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/fca1aff2b2b9b820939c344d22ee8fa4_1.webp",
+            "url": ""
+          }
+        },
+        "slide_Cp8UqW": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/b9d5ef2dd4d7988d37d34d2396111653_1.jpg",
+            "url": ""
+          }
+        },
+        "slide_qawEec": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/e188364f73d6e0331bf66144b6e108ae_1.webp",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_aMwAyD",
+        "slide_eaneGm",
+        "slide_PnL9L6",
+        "slide_6ckanJ",
+        "slide_Cp8UqW",
+        "slide_qawEec"
+      ],
+      "name": "SS - Instafeed #2",
+      "settings": {
+        "top": "",
+        "top_custom": false,
+        "top_font": "josefin_sans_n4",
+        "top_size": 13,
+        "top_height": 130,
+        "top_align": "center",
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 40,
+        "heading_height": 130,
+        "heading_align": "center",
+        "heading_mt": 12,
+        "subheading": "<h3><strong>TAG US TO GET FEATURED</strong></h3>",
+        "subheading_custom": true,
+        "subheading_font": "montserrat_n4",
+        "subheading_size": 12,
+        "subheading_height": 130,
+        "subheading_align": "center",
+        "subheading_mt": 12,
+        "slider_mt": 60,
+        "slider_row": "3",
+        "slider_row_mobile": "2",
+        "slider_gap": 8,
+        "slider_gap_mobile": 4,
+        "autoplay": true,
+        "autoplay_speed": 10,
+        "nav_size": 40,
+        "nav_size_mobile": 30,
+        "hide_nav": true,
+        "hide_nav_mobile": false,
+        "image_radius": 0,
+        "top_color": "#1c1c1c",
+        "heading_color": "#746661",
+        "subheading_color": "#1c1c1c",
+        "nav_btn_bg": "rgba(0,0,0,0)",
+        "nav_btn_hover_bg": "rgba(0,0,0,0)",
+        "nav_border": "rgba(0,0,0,0)",
+        "nav_border_hover": "rgba(0,0,0,0)",
+        "nav_icon": "#ffffff",
+        "nav_hover_icon": "#ffffff",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    }
+  },
+  "order": [
+    "sp_custom_html_LjNGdL",
+    "recently_viewed_products_PkNCKi",
+    "ss_instafeed_2_eAgC4d"
+  ]
+}

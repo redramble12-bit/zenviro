@@ -1,0 +1,160 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "sp_custom_html_LjNGdL": {
+      "type": "sp-custom-html",
+      "custom_css": [
+        "{background-color: #ffffff;}",
+        " {padding-left: 100px;}"
+      ],
+      "name": "🚀SP - Custom HTML",
+      "settings": {
+        "title": "",
+        "custom_html": "<br><br>\n<h1>Refund policy</h1>\n  \n\n  <div class=\"shopify-policy__body\">\n    <div class=\"rte prose\">\n        <div>We love our customers and want you to love your purchases without the stress of being stuck with an item you don't like. We understand the difficulties of shopping online and will ensure to provide top notch service so you will always be happy shopping with us!<br>\n</div>\n<div><br></div>\n<p><strong>Return Policy</strong></p>\n<p>Zomario will accept, for return or exchange, items that are purchased off our website within 14 days of receiving the item under the following conditions:</p>\n<ul>\n<li><strong>There is no visible signs of wear and tear</strong></li>\n<li><strong>Item is unwashed, unworn, unaltered</strong></li>\n</ul>\n<p>Item(s) cannot be returned or exchanged after 14 day of receiving a package.</p>\n<p>Several types of goods are exempt from being returned. We do not accept products that are intimate (under-garments).</p>\n<p>To complete your return, we may require a receipt or proof of purchase (order confirmation email) with your order number.</p>\n<p><span>For all returns or exchanges please contact contact@zomario.com and provide them with your order number and reason for return or exchange. They will handle your request based on the rules stated in this page.</span></p>\n<p><strong>Exchanges</strong><span> </span>(if applicable)</p>\n<p>For all returns or exchanges please contact<span> contact@zomario.com </span>and provide them with your order number and reason for return or exchange. They will handle your request based on the rules stated in this page.</p>\n<p><strong>Return Shipping</strong><span> </span>(if applicable)</p>\n<p>You will be responsible for paying for your own shipping costs for returning your item.</p>\n<p>If you are shipping an item over $50, please consider using a track-able shipping service or purchasing shipping insurance. We don’t guarantee that we will receive your returned item.</p>\n<p><strong>Refunds</strong><span> </span>(if applicable)</p>\n<p>Once your return is received and inspected, we will send you an email to notify you that we have received your returned item as well as the approval or rejection status of your refund. If you are approved, then your refund will be processed, and a credit will automatically be applied to your original method of payment.</p>\n<p><strong>Late or Missing Refunds</strong><span> </span>(if applicable)</p>\n<p>There is often some processing time between financial institutions before a refund is posted (between 2-3 days is normal). If you still have not received your refund after this time-frame, please send us an email at<span> contact@zomario.com</span><span> </span>and allow us the opportunity to investigate the matter further. </p>\n<p><strong>Damaged Items</strong></p>\n<p>If you receive a damaged or defective item, please submit a request<span> to our email team contact@zomario.com<br></span></p>\n<p><span>If you do not report the damage to us within this 48 hour period after receiving a product, we may not be able to honor your claim. We utilize the timestamp information from the tracking link and delivery confirmation from the carrier when reviewing damage or return requests. </span></p>\n<p><strong>Important Note</strong></p>\n<p>The size indicated on the product label may differ from the size you ordered. This can occur due to variations in manufacturing standards or regional sizing. However, we ensure that the product matches the size you selected during checkout.</p>\n<p><strong>Feedback</strong></p>\n<p>We would love to hear your feedback, questions, or any concerns. Please feel free to email us at<span> contact@zomario.com </span>to let us know how we are doing. We take your feedback very seriously and are always striving to improve.</p>\n    </div>\n  </div>\n\n<br>"
+      }
+    },
+    "recently_viewed_products_PkNCKi": {
+      "type": "recently-viewed-products",
+      "name": "t:sections.recently_viewed_products.presets.recently_viewed_products.name",
+      "settings": {
+        "separate_section_with_border": true,
+        "color_scheme": "scheme-2",
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_count": 9,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "",
+        "title": "Recently viewed products",
+        "content": ""
+      }
+    },
+    "ss_instafeed_2_eAgC4d": {
+      "type": "ss-instafeed-2",
+      "blocks": {
+        "slide_aMwAyD": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/87b23458bb0245beec87ad8d0cbf70be_1.webp",
+            "url": ""
+          }
+        },
+        "slide_eaneGm": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/66d209e7f9da77a4a0ff0f8f77d84680_1.webp",
+            "url": ""
+          }
+        },
+        "slide_PnL9L6": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/ICONS_FOR_WEBSITE_34_dcdfc569-0632-408a-9375-dd3a5cccbc2f_1.webp",
+            "url": ""
+          }
+        },
+        "slide_6ckanJ": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/fca1aff2b2b9b820939c344d22ee8fa4_1.webp",
+            "url": ""
+          }
+        },
+        "slide_Cp8UqW": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/b9d5ef2dd4d7988d37d34d2396111653_1.jpg",
+            "url": ""
+          }
+        },
+        "slide_qawEec": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/e188364f73d6e0331bf66144b6e108ae_1.webp",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_aMwAyD",
+        "slide_eaneGm",
+        "slide_PnL9L6",
+        "slide_6ckanJ",
+        "slide_Cp8UqW",
+        "slide_qawEec"
+      ],
+      "name": "SS - Instafeed #2",
+      "settings": {
+        "top": "",
+        "top_custom": false,
+        "top_font": "josefin_sans_n4",
+        "top_size": 13,
+        "top_height": 130,
+        "top_align": "center",
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 40,
+        "heading_height": 130,
+        "heading_align": "center",
+        "heading_mt": 12,
+        "subheading": "<h3><strong>TAG US TO GET FEATURED</strong></h3>",
+        "subheading_custom": true,
+        "subheading_font": "montserrat_n4",
+        "subheading_size": 12,
+        "subheading_height": 130,
+        "subheading_align": "center",
+        "subheading_mt": 12,
+        "slider_mt": 60,
+        "slider_row": "3",
+        "slider_row_mobile": "2",
+        "slider_gap": 8,
+        "slider_gap_mobile": 4,
+        "autoplay": true,
+        "autoplay_speed": 10,
+        "nav_size": 40,
+        "nav_size_mobile": 30,
+        "hide_nav": true,
+        "hide_nav_mobile": false,
+        "image_radius": 0,
+        "top_color": "#1c1c1c",
+        "heading_color": "#746661",
+        "subheading_color": "#1c1c1c",
+        "nav_btn_bg": "rgba(0,0,0,0)",
+        "nav_btn_hover_bg": "rgba(0,0,0,0)",
+        "nav_border": "rgba(0,0,0,0)",
+        "nav_border_hover": "rgba(0,0,0,0)",
+        "nav_icon": "#ffffff",
+        "nav_hover_icon": "#ffffff",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    }
+  },
+  "order": [
+    "sp_custom_html_LjNGdL",
+    "recently_viewed_products_PkNCKi",
+    "ss_instafeed_2_eAgC4d"
+  ]
+}
